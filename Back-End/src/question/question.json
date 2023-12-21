@@ -1,0 +1,114 @@
+[
+    {
+        "id": 1,
+        "libelle": "Qu'est-ce que JavaScript ?",
+        "r1": "Un langage de balisage utilisé pour structurer le contenu des pages web",
+        "r2": "Un langage de programmation côté serveur",
+        "r3": "Un langage de programmation côté client utilisé pour rendre les pages web interactives",
+        "r4": "Une base de données relationnelle souvent utilisée dans le développement web",
+        "answers": [
+            "Un langage de programmation côté client utilisé pour rendre les pages web interactives"
+        ]
+    },
+    {
+        "id": 2,
+        "libelle": "Quel(s) est/sont le(s) rôle(s) principal/principaux de JavaScript dans le développement web",
+        "r1": "Faciliter la programmation côté front",
+        "r2": "Faciliter la programmation côté back",
+        "r3": "Structurer du contenu",
+        "r4": "Scripter du Java",
+        "answers": [
+            "Faciliter la programmation côté front"
+        ]
+    },
+    {
+        "id": 3,
+        "libelle": "Quel(s) défaut(s) JavaScript possède(nt)-t-il ?",
+        "r1": "Il ne possède pas de contrainte de type",
+        "r2": "Il possède un faible typage",
+        "r3": "Il ne peut pas être exécuté ailleurs que dans un autre navigateur",
+        "r4": "Aucun",
+        "answers": [
+            "Il ne possède pas de contrainte de type",
+            "Il possède un faible typage"
+        ]
+    },
+    {
+        "id": 4,
+        "libelle": "Quel(s) mot(s)-clé(s) est utilisé pour déclarer une variable en JavaScript ?",
+        "r1": "let",
+        "r2": "const",
+        "r3": "variable",
+        "r4": "declare",
+        "answers": [
+            "let",
+            "const"
+        ]
+    },
+    {
+        "id": 5,
+        "libelle": "Quelle est la différence entre « let » et « const » ?",
+        "r1": "« let » est utilisé pour les variables immuables, « const » pour les variables mutables",
+        "r2": "« let » permet la réassignation, « const » crée une variable en lecture seule",
+        "r3": "« let » crée une variable globale, « const » créer une variable locale",
+        "r4": "Il n'y a pas de différence entre « let » et « const »",
+        "answers": [
+            "« let » permet la réassignation, « const » crée une variable en lecture seule"
+        ]
+    },
+    {
+        "id": 6,
+        "libelle": "Quelle est la différence entre « == » et « === » ?",
+        "r1": "« == » compare la valeur, « === » compare la valeur et le type",
+        "r2": "« == » compare uniquement le type, « === » compare la valeur et le type",
+        "r3": "« == » compare la valeur et le type, « === » compare uniquement la valeur",
+        "r4": "Il n'y a pas de différence, les deux font la même chose",
+        "answers": [
+            "« == » compare la valeur, « === » compare la valeur et le type"
+        ]
+    },
+    {
+        "id": 7,
+        "libelle": "Quelle(s) méthode(s) est utilisée pour concaténer des chaînes de caractères ?",
+        "r1": "concat()",
+        "r2": "merge()",
+        "r3": "+",
+        "r4": "&",
+        "answers": [
+            "&"
+        ]
+    },
+    {
+        "id": 8,
+        "libelle": "Quelle(s) méthode(s) est utilisée pour arrondir un nombre entier au plus proche ?",
+        "r1": "round()",
+        "r2": "floor()",
+        "r3": "ceil()",
+        "r4": "int()",
+        "answers": [
+            "round()"
+        ]
+    },
+    {
+        "id": 9,
+        "libelle": "Qu'est-ce que Node.js ?",
+        "r1": "Un Framework JavaScript",
+        "r2": "Un environnement d'exécution où on exécute du JavaScript",
+        "r3": "Un langage de programmation Back-End",
+        "r4": "Une page web",
+        "answers": [
+            "Un environnement d'exécution où on exécute du JavaScript"
+        ]
+    },
+    {
+        "id": 10,
+        "libelle": "Qu'est-ce qu'une API ?",
+        "r1": "Une base de données",
+        "r2": "Une interface utilisateur",
+        "r3": "Un moyen de communication entre deux logiciels",
+        "r4": "Une interface de programmation",
+        "answers": [
+            "Une interface de programmation"
+        ]
+    }
+]
